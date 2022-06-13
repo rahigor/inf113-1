@@ -1,0 +1,30 @@
+*
+{
+   margin: 5px;
+   padding: 5px;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+h1
+{
+   
+    color: white
+}
+header
+{
+    height: 100px;
+    background-color: rgba(168, 54, 54, 0.192);
+    text-shadow: rgb(255, 0, 157);
+    font-family: Verdana;
+}
+section
+{
+    background-color: rgb(207, 115, 115);
+   color: rgb(4, 50, 68);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img
+{
+   height: 200px;
+   width: 300px;
+}
